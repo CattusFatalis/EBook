@@ -1,6 +1,6 @@
 # EBook
 Minecraft成书内容外置插件
-服务端：spigot
+服务端：spigot-1.21.8
 
 使用方法：
 1. 将插件放入服务端的plugins
